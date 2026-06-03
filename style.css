@@ -1,0 +1,14 @@
+body{
+    background-color: darkorchid;
+    color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: black;
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
