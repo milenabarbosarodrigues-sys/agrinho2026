@@ -17,9 +17,3 @@ img {
     object-fit: cover; 
     border-radius: 8px;
     margin-bottom: 15px;
-
-button {
-    background-color: black;
-    color: rgb(26, 114, 190);
-    font-family: 'Times New Roman', Times, serif;
-}
